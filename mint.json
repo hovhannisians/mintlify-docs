@@ -8,11 +8,11 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#466CE5",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "light": "#07C9E5",
+    "dark": "#0D93E5",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#0D93E5",
+      "to": "#07C9E5"
     }
   },
   "topbarLinks": [
@@ -84,8 +84,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "x": "https://x.com/getrobiai",
+    "github": "https://github.com/getrobi",
+    "linkedin": "https://linkedin.com/company/robiai"
   }
 }
