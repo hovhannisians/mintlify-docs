@@ -29,14 +29,13 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "Picasoe",
+      "url": "picasoe"
     }
   ],
   "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
     {
       "name": "Community",
       "icon": "users",
@@ -53,19 +52,108 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "account",
+        "setup"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "General",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "dashboard",
+        "support"
+      ]
+    },
+    {
+      "group": "Content Studio",
+      "pages": [
+        "documents",
+        "ai-bots"
+      ]
+    },
+    {
+      "group": "Our Tools",
+      "pages": [
+        "ai-text",
+        "ai-imagine",
+        "ai-helpers",
+        "custom-helpers",
+        "ai-clones",
+        "ai-voice",
+        "ai-tools",
+        "automation"
+      ]
+    },
+    {
+      "group": "AI Text",
+      "pages": [
+        "ai-editor",
+        "ai-writer",
+        "article-wizard",
+        "ai-rewriter"
+      ]
+    },
+    {
+      "group": "AI Imagine",
+      "pages": [
+        "image-to-video",
+        "ai-avatar",
+        "image-generator"
+      ]
+    },
+    {
+      "group": "AI Helpers",
+      "pages": [
+        "file-chat",
+        "vision",
+        "ai-chat-image",
+        "all-helpers",
+        "ai-web-chat"
+      ]
+    },
+    {
+      "group": "Custom Helpers",
+      "pages": [
+        "helper-categories",
+        "helper-templates",
+        "chatbot-training"
+      ]
+    },
+    {
+      "group": "AI Voice",
+      "pages": [
+        "ai-speech-to-text",
+        "ai-voiceover",
+        "ai-voice-isolator"
+      ]
+    },
+    {
+      "group": "AI Clones",
+      "pages": [
+        "ai-persona",
+        "ai-voice-clone"
+      ]
+    },
+    {
+      "group": "AI Tools",
+      "pages": [
+        "ai-plagiarism",
+        "ai-detector",
+        "seo-analyzer",
+        "ai-code",
+        "ai-youtube",
+        "ai-rss"
+      ]
+    },
+    {
+      "group": "Automation",
+      "pages": [
+        "push-to-cms"
+      ]
+    },
+    {
+      "group": "Picasoe",
+      "pages": [
+        "picasoe/introduction"
       ]
     },
     {
